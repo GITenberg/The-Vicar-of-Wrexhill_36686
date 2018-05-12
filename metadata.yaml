@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3479
     wikipedia: http://en.wikipedia.org/wiki/Frances_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36686#The-Vicar-of-Wrexhill
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text
 identifiers:
